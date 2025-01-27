@@ -1,4 +1,4 @@
-<img width="100%" height = "100%" src="./banner.png" alt="Hi, I'm Ayush Mishra" />
+<img width="100%" height = "100%" src="./banner.png" alt="Hi, I'm Abhinav Bhardwaj" />
 
 #### - I'm currently honing my skills in backend development.
 #### - All of my projects are available at [https://github.com/DraGonoff69](https://github.com/DraGonoff69)

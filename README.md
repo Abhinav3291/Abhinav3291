@@ -1,12 +1,12 @@
 <img width="100%" height = "100%" src="./banner.png" alt="Hi, I'm Abhinav Bhardwaj" />
 
 #### - I'm currently honing my skills in backend development.
-#### - All of my projects are available at [https://github.com/DraGonoff69](https://github.com/DraGonoff69)
-#### - Know about my experiences (Resume) [https://drive.google.com/file/d/1ui30DQ1rObJQ0v0BYOEbuivuCPhGiHYl/view?usp=drive_link](https://drive.google.com/file/d/1ui30DQ1rObJQ0v0BYOEbuivuCPhGiHYl/view?usp=drive_link)
+#### - All of my projects are available at [https://github.com/Abhinav3291](https://github.com/Abhinav3291)
+#### - Know about my experiences (Resume) [https://drive.google.com/file/d/1e2dBES7w5CFyJhWie6W94pyppRxfOLWd/view?usp=drivesdk] (https://drive.google.com/file/d/1e2dBES7w5CFyJhWie6W94pyppRxfOLWd/view?usp=drivesdk)
 #### - I'm really skilled at playing video games and I love exploring digital worlds!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:its.mishraayush@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-mishra-988466229/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-bhardwaj-58b00a313/)
 
 
 ## Coding Profiles

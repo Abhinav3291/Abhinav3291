@@ -1,4 +1,5 @@
-<img width="100px" height= "130px" src= "https://github.com/user-attachments/assets/8eb602e3-f0e3-4eb1-acc9-17e9f720fcf6" alt= "Hi, I'm Abhinav Bhardwaj" />
+<img width="100px" height= "130px" src= "https://github.co![1724004747515](https://github.com/user-attachments/assets/0a112833-4f29-46bd-98e2-ef055ad27301)
+m/user-attachments/assets/8eb602e3-f0e3-4eb1-acc9-17e9f720fcf6" alt= "Hi, I'm Abhinav Bhardwaj" />
 
 Hi, I'm Abhinav Bhardwaj
 #### - I'm currently honing my skills in backend development.

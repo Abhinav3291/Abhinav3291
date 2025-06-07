@@ -3,7 +3,7 @@
 Hi, I'm Abhinav Bhardwaj
 #### - I'm currently honing my skills in backend development.
 #### - All of my projects are available at [https://github.com/Abhinav3291](https://github.com/Abhinav3291)
-#### - Know about my experiences (Resume)
+#### - Know about my experiences (Resume) [https://drive.google.com/file/d/1domgezaS_UClQHHx1pqcERrElfYkzyG8/view?usp=sharing]
 #### - I'm really skilled at playing video games and I love exploring digital worlds!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:its.mishraayush@gmail.com)

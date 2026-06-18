@@ -10,7 +10,7 @@ Hi, I'm Abhinav Bhardwaj
 
 
 ## Coding Profiles
-[![Codolio](https://shields.io)](https://codolio.com/profile/Abhinav%20Bhardwaj/problemSolving)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)[https://leetcode.com/u/abhiboss/]
 
 
 

@@ -10,7 +10,8 @@ Hi, I'm Abhinav Bhardwaj
 
 
 ## Coding Profiles
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mishraayuujm5/practice)
+[![Codolio](https://shields.io)](https://codolio.com/profile/Abhinav%20Bhardwaj/problemSolving)
+
 
 
 ## Skills
